@@ -1,1 +1,1 @@
-sample policy
+policy from .github
